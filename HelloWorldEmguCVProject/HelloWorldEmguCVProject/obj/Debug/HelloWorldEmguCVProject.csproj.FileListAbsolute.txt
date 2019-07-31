@@ -37,8 +37,10 @@ D:\FilesAna\..APRENDIZAJE\PACKPUB\EmguEssensials\emguCVOpenCV\HelloWorldEmguCVPr
 D:\FilesAna\..APRENDIZAJE\PACKPUB\EmguEssensials\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\opencv_superres290.dll
 D:\FilesAna\..APRENDIZAJE\PACKPUB\EmguEssensials\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\opencv_video290.dll
 D:\FilesAna\..APRENDIZAJE\PACKPUB\EmguEssensials\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\opencv_videostab290.dll
-C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.exe
-C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.pdb
+C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.Form1.resources
+C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.Form2.resources
+C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.Properties.Resources.resources
+C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.csproj.GenerateResource.Cache
 C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\opencv_calib3d290.dll
 C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\opencv_contrib290.dll
 C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\opencv_core290.dll
@@ -75,7 +77,6 @@ C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorl
 C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\HelloWorldEmguCVProject.pdb
 C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
 C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.exe
+C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.pdb
 C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.csprojResolveAssemblyReference.cache
-C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.Form1.resources
-C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.Properties.Resources.resources
-C:\Users\anamarquez\source\Repass\emguCVOpenCV\HelloWorldEmguCVProject\HelloWorldEmguCVProject\obj\Debug\HelloWorldEmguCVProject.csproj.GenerateResource.Cache
